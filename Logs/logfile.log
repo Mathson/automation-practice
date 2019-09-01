@@ -1,0 +1,42 @@
+2019-09-01 20:26:47,237 INFO  [AccountSignUpSteps] Started Browser 
+2019-09-01 20:26:47,239 INFO  [AccountSignUpSteps] Successfully fetched the url from Configs 
+2019-09-01 20:26:47,560 INFO  [AccountSignUpSteps] Started Browser 
+2019-09-01 20:26:47,562 INFO  [AccountSignUpSteps] Successfully fetched the url from Configs 
+2019-09-01 20:27:12,478 INFO  [AccountSignUpSteps] BeforeHeading 
+2019-09-01 20:27:12,602 INFO  [AccountSignUpSteps] AftereHeadingAUTHENTICATION 
+2019-09-01 20:27:12,622 INFO  [AccountSignUpSteps] Input SignUp Details 
+2019-09-01 20:27:13,240 INFO  [AccountSignUpSteps] BeforeHeading 
+2019-09-01 20:27:13,674 INFO  [AccountSignUpSteps] AftereHeadingAUTHENTICATION 
+2019-09-01 20:27:16,899 INFO  [AccountSignUpSteps] Email Idannabelleballard@gmail.com is Valid for Register 
+2019-09-01 20:27:17,893 INFO  [AccountSignUpSteps] Invalid Email Id Verification successful 
+2019-09-01 20:27:19,846 INFO  [AccountSignUpSteps] Opened  SignUp or Login Page with title: Login - My Store 
+2019-09-01 20:27:21,618 INFO  [AccountSignUpSteps] Month selected is4 
+2019-09-01 20:27:26,830 INFO  [AccountSignUpSteps] User Annabelle Ballard successfully Registered 
+2019-09-01 20:27:35,718 INFO  [AccountSignUpSteps] Started Browser 
+2019-09-01 20:27:35,720 INFO  [AccountSignUpSteps] Successfully fetched the url from Configs 
+2019-09-01 20:27:56,850 INFO  [AccountSignUpSteps] BeforeHeading 
+2019-09-01 20:27:56,960 INFO  [AccountSignUpSteps] AftereHeadingAUTHENTICATION 
+2019-09-01 20:27:56,962 INFO  [AccountSignUpSteps] Input SignUp Details 
+2019-09-01 20:27:58,887 INFO  [AccountSignUpSteps] Email Idlilydrake@gmail.com is Valid for Register 
+2019-09-01 20:28:01,337 INFO  [AccountSignUpSteps] Opened  SignUp or Login Page with title: Login - My Store 
+2019-09-01 20:28:02,734 INFO  [AccountSignUpSteps] Month selected is5 
+2019-09-01 20:28:08,109 INFO  [AccountSignUpSteps] User Lily Drake successfully Registered 
+2019-09-01 20:28:11,590 INFO  [AccountSignUpSteps] Started Browser 
+2019-09-01 20:28:11,591 INFO  [AccountSignUpSteps] Successfully fetched the url from Configs 
+2019-09-01 20:28:30,855 INFO  [AccountSignUpSteps] BeforeHeading 
+2019-09-01 20:28:30,952 INFO  [AccountSignUpSteps] AftereHeadingAUTHENTICATION 
+2019-09-01 20:28:32,256 INFO  [AccountSignUpSteps] Invalid Email Id Verification successful 
+2019-09-01 20:32:57,920 INFO  [AccountSignUpSteps] Started Browser 
+2019-09-01 20:32:57,923 INFO  [AccountSignUpSteps] Successfully fetched the url from Configs 
+2019-09-01 20:32:59,414 INFO  [AccountSignUpSteps] Started Browser 
+2019-09-01 20:32:59,417 INFO  [AccountSignUpSteps] Successfully fetched the url from Configs 
+2019-09-01 20:33:23,329 INFO  [AccountSignUpSteps] BeforeHeading 
+2019-09-01 20:33:23,417 INFO  [AccountSignUpSteps] AftereHeadingAUTHENTICATION 
+2019-09-01 20:33:23,430 INFO  [AccountSignUpSteps] Input SignUp Details 
+2019-09-01 20:33:23,776 INFO  [AccountSignUpSteps] BeforeHeading 
+2019-09-01 20:33:24,051 INFO  [AccountSignUpSteps] AftereHeadingAUTHENTICATION 
+2019-09-01 20:33:27,983 INFO  [AccountSignUpSteps] Email Idjohnbonner@mail.com is Valid for Register 
+2019-09-01 20:33:28,409 INFO  [AccountSignUpSteps] Invalid Email Id Verification successful 
+2019-09-01 20:33:30,773 INFO  [AccountSignUpSteps] Opened  SignUp or Login Page with title: Login - My Store 
+2019-09-01 20:33:32,908 INFO  [AccountSignUpSteps] Month selected is6 
+2019-09-01 20:33:38,260 INFO  [AccountSignUpSteps] User John Bonner successfully Registered 

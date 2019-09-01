@@ -1,0 +1,47 @@
+{
+  "uid" : "f098cf8c1a5fd5d2",
+  "name" : "Then user inputs signUp information",
+  "fullName" : "| http://automationpractice.com/ | chrome |.Then user inputs signUp information",
+  "historyId" : "9d10c2dd399082cffbe6fbd1b4c211b0",
+  "time" : {
+    "start" : 1567333650158,
+    "stop" : 1567333650158,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| http://automationpractice.com/ | chrome |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then user inputs signUp information"
+  }, {
+    "name" : "suite",
+    "value" : "| http://automationpractice.com/ | chrome |"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D1P01RQ"
+  }, {
+    "name" : "thread",
+    "value" : "3440@DESKTOP-D1P01RQ.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f098cf8c1a5fd5d2.json",
+  "parameterValues" : [ ]
+}

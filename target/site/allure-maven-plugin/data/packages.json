@@ -1,0 +1,57 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "",
+    "children" : [ {
+      "name" : "Given Automation practice account  signup page with url \"http://automationpractice.com/\",\"chrome\"",
+      "uid" : "a9981c5a87db1ad7",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567333999894,
+        "stop" : 1567333999898,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When Page successfuly opens",
+      "uid" : "f5e559515494b373",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567334004055,
+        "stop" : 1567334004055,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then user inputs invalid email information",
+      "uid" : "3d3b825056f4a102",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567334012310,
+        "stop" : 1567334012310,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then user inputs signUp information",
+      "uid" : "aac4a9d167caa248",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567334021492,
+        "stop" : 1567334021492,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "be5e18e41bf32fca5cace70290d883bb"
+  } ]
+}

@@ -1,0 +1,8 @@
+com\testingpractice\steps\AccountSignUpSteps.class
+Parallel02IT.class
+Parallel01IT.class
+com\testingpractice\cucumbers\runners\RerunFlakkyTest.class
+com\testingpractice\pageobject\pages\SignUp.class
+com\testingpractice\test\utils\UtilHelper.class
+com\testingpractice\browser\BrowserFactory.class
+com\testingpractice\cucumbers\runners\TestRunner.class

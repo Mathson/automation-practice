@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","| http://automationpractice.com/ | chrome |.Then user inputs signUp information","0",""
+"passed","| http://automationpractice.com/ | chrome |.Given Automation practice account  signup page with url ""http://automationpractice.com/"",""chrome""","4",""
+"passed","| http://automationpractice.com/ | chrome |.When Page successfuly opens","0",""
+"passed","| http://automationpractice.com/ | chrome |.Then user inputs invalid email information","0",""

@@ -1,0 +1,47 @@
+{
+  "uid" : "d4b2c6f10a8f2e21",
+  "name" : "Given Automation practice account  signup page with url \"http://automationpractice.com/\",\"chrome\"",
+  "fullName" : "| http://automationpractice.com/ | chrome |.Given Automation practice account  signup page with url \"http://automationpractice.com/\",\"chrome\"",
+  "historyId" : "15566563994fada8fe3196b829cc876f",
+  "time" : {
+    "start" : 1567333999483,
+    "stop" : 1567333999491,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "| http://automationpractice.com/ | chrome |"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given Automation practice account  signup page with url \"http://automationpractice.com/\",\"chrome\""
+  }, {
+    "name" : "suite",
+    "value" : "| http://automationpractice.com/ | chrome |"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D1P01RQ"
+  }, {
+    "name" : "thread",
+    "value" : "14580@DESKTOP-D1P01RQ.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4b2c6f10a8f2e21.json",
+  "parameterValues" : [ ]
+}
